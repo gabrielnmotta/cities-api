@@ -1,6 +1,6 @@
 # 🖥️ Cities-API 
 
-## 🗺️ REST API de geolocalização 
+## 🗺️ REST API de consulta de cidades 
 - Tem como objetivo demonstrar os estados do Brasil com ddd, todas as cidades do país e calcular a distância de uma cidade para outra por meio da latitude e longitude.
 
 ## 🔧 Usado em serviço
